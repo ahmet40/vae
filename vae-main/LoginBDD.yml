@@ -1,0 +1,4 @@
+serverName: servinfo-mariadb
+bdName: DBdemaret
+userLogin: demaret
+userPassword: demaret

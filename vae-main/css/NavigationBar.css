@@ -1,0 +1,8 @@
+.underline {
+    -fx-underline: true;
+}
+
+.custom-context-menu {
+    -fx-background-color: #014751;
+    -fx-background-radius: 8px;
+}

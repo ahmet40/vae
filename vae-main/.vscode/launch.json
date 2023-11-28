@@ -1,0 +1,16 @@
+{
+    // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
+    // Pointez pour afficher la description des attributs existants.
+    // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "vmArgs": "--class-path ./lib/mariadb-java-client.jar/:./lib/itextpdf-5.5.9.jar/ --module-path C:/Users/Utilisateur/OneDrive/Bureau/projet/SpaceInvaders/JavaFX/lib/ --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "src.Main",
+            "projectName": "Nouveaudossier_d1c6a9a9"
+        }
+    ]
+}
